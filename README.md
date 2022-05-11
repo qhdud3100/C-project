@@ -37,5 +37,4 @@ git checkout [시간코드]
 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
 
 
-#### 참고
-https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/
+#### 참고 https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/
