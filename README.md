@@ -1,2 +1,2 @@
 # C-project
-2021-winter
+2021 winter
