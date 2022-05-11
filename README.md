@@ -8,7 +8,7 @@
 git clone [프로젝트 주소]
 
 git init 
-git remote add [원격 repo 이름] [github 주소] \n
+git remote add [원격 repo 이름] [github 주소]
 
 git branch [branch 이름]
 git checkout [branch 이름]
@@ -36,4 +36,6 @@ git checkout [시간코드]
 ## 토큰
 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
 
+
+#### 참고
 https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/
