@@ -39,7 +39,9 @@ git rm -r --cached .
 ``` 
 
 ## 토큰
-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
+``` 
+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
+``` 
 
 
 #### 참고 https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/
