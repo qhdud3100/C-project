@@ -35,6 +35,7 @@ git config --list
 ``` 
 git log
 git checkout [시간코드]
+git rm -r --cached .
 ``` 
 
 ## 토큰
