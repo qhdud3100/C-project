@@ -34,7 +34,7 @@ git checkout [시간코드]
 ``` 
 
 ## 토큰
-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
+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
 
 
 #### 참고 https://wayhome25.github.io/git/2017/07/08/git-first-pull-request-story/
