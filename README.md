@@ -10,6 +10,9 @@ git clone [프로젝트 주소]
 git init 
 git remote add [원격 repo 이름] [github 주소]
 
+git config user.name "이름"
+git config user.email "이메일"
+
 git branch [branch 이름]
 git checkout [branch 이름]
 git branch -b [삭제할 branch 이름]
@@ -25,6 +28,7 @@ git push [원격 repo 이름] [branch 이름]
 git remote -v
 git status 
 git branch
+git config --list
 ``` 
 
 ## 잡기능 
