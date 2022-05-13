@@ -6,6 +6,7 @@
 ## 필수 
 ``` 
 git clone [프로젝트 주소]
+git pull [원격 repo 이름] [branch 이름] 
 
 git init 
 git remote add [원격 repo 이름] [github 주소]
