@@ -22,7 +22,7 @@ https://en.wikipedia.org/wiki/Wolf,_goat_and_cabbage_problem.
 It visualize rush hour which is able to move. 
 like this, 
 
-<pre><code>  + + 2 + + +
+<pre><code>+ + 2 + + +
 + + 2 + + +
 1 1 2 + + +
 3 3 3 + + 4
