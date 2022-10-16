@@ -1,5 +1,6 @@
-# C-project
-### 2021 winter
+# C-project in 2021 winter
+
+
 
 ## 1. star (Simple Tar)
 Implement basic function tar command which is for file management.
