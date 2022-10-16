@@ -23,11 +23,11 @@ It visualize rush hour which is able to move.
 like this, 
 
 <pre><code>  + + 2 + + +
-       + + 2 + + +
-       1 1 2 + + +
-       3 3 3 + + 4
-       + + + + + 4
-       + + + + + 4
++ + 2 + + +
+1 1 2 + + +
+3 3 3 + + 4
++ + + + + 4
++ + + + + 4
 </code></pre>
 
 ## 6. rush hour solver
