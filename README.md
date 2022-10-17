@@ -11,7 +11,7 @@ Colors the code using Regex based on it's pattern.
 It act like vscode. 
 
 ## 3. assembly interpreter 
-reads assembly language command and excute each command. 
+Reads assembly language command and excute each command. 
 
 ## 4. goat solver
 It solves wolf, goat and cabbage problem.
@@ -30,9 +30,9 @@ like this,
 </code></pre>
 
 ## 6. rush hour solver
-It find best solution of rush hour using BFS. 
+Finds the best solution of rush hour using BFS. 
 
 ## 7. twitter
-It analize twitter networking algorihtm and visualize.
+Analizes twitter networking algorihtm and visualize.
 It apply various graph algorithm.
 
