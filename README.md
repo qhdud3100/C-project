@@ -32,7 +32,6 @@ like this,
 + + + + + 4
 + + + + + 4
 </code></pre>
-</br>
 
 ## 6. rush hour solver
 Finds the best solution of rush hour using BFS of self implemented queue.
