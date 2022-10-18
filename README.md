@@ -30,7 +30,7 @@ like this,
 </code></pre>
 
 ## 6. rush hour solver
-Finds the best solution of rush hour using BFS. 
+Finds the best solution of rush hour using BFS of self implemented queue.
 
 ## 7. twitter
 Analizes twitter networking algorihtm and visualize.
