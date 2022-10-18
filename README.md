@@ -22,7 +22,8 @@ https://en.wikipedia.org/wiki/Wolf,_goat_and_cabbage_problem.
 </br>
 
 ## 5. rush hour
-It visualize rush hour which is able to move. 
+It visualize rush hour which is able to control and move by player. 
+
 like this, 
 <pre><code>+ + 2 + + +
 + + 2 + + +
