@@ -7,8 +7,7 @@ Implements basic function of tar command which is for file management.
 https://www.geeksforgeeks.org/tar-command-linux-examples/
 
 ## 2. java syntac highlighter 
-Colors the code using Regex based on it's pattern. 
-It act like vscode. 
+Colors the code using Regex based on it's pattern like code editor. 
 
 ## 3. assembly interpreter 
 Reads assembly language command and excute each command. 
